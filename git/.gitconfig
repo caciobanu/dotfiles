@@ -16,6 +16,7 @@
     ps = push
     co = checkout
     ci = commit
+    cim = commit -m
     st = status
     br = branch
     rs = reset
